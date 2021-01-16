@@ -1,0 +1,10 @@
+{
+    "condition": "alternative",
+    "terms": [
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_cobweb": { "min": 1, "max": 1 } }
+        }
+    ]
+}
