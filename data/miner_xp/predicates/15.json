@@ -1,150 +1,15 @@
 {
-    "condition": "alternative",
+    "condition": "minecraft:alternative",
     "terms": [
         {
-            "condition": "entity_scores",
+            "condition": "minecraft:entity_scores",
             "entity": "this",
-            "scores": { "mx_andesite": { "min": 1, "max": 1 } }
+            "scores": { "mx_obsidian": { "min": 1, "max": 24 } }
         },
         {
-            "condition": "entity_scores",
+            "condition": "minecraft:entity_scores",
             "entity": "this",
-            "scores": { "mx_blacktone": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_polishedblack": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_brain_coral": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_bubble_coral": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_fire_coral": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_horn_coral": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_tube_coral": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_coral10": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_coral11": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_coral12": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_coral8": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_coral9": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_prismarine": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_prismarineB": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mxDarkPrismarine": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_diorite": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_granite": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone_bricks": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone_bricks2": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_andesite": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone_bricks3": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_mossy_bricks": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone2": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone4": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_stone6": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_purpur": { "min": 1, "max": 1 } }
-        },
-        {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_purpur_pillar": { "min": 1, "max": 1 } }
+            "scores": { "mx_obsidianCry": { "min": 1, "max": 24 } }
         }
     ]
 }
