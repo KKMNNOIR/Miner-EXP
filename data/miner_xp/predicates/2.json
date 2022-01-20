@@ -4,17 +4,97 @@
         {
             "condition": "entity_scores",
             "entity": "this",
-            "scores": { "mx_brown_mush": { "min": 1, "max": 1 } }
+            "scores": { "mx_red_sandstone": { "min": 1, "max": 12 } }
         },
         {
             "condition": "entity_scores",
             "entity": "this",
-            "scores": { "mx_red_mush": { "min": 1, "max": 1 } }
+            "scores": { "mx_sandstone": { "min": 1, "max": 12 } }
         },
         {
             "condition": "entity_scores",
             "entity": "this",
-            "scores": { "mx_snow_block": { "min": 1, "max": 1 } }
+            "scores": { "mx_black_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_blue_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_brown_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_cyan_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_gray_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_green_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_light_blue_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_light_gray_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_lime_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_magenta_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_orange_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_pink_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_purple_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_red_terracotta": { "min": 1, "max": 10 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_white_terracotta": { "min": 1, "max": 12 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_yellow_terracotta": { "min": 1, "max": 12 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_basalt": { "min": 1, "max": 12 } }
         }
     ]
 }
