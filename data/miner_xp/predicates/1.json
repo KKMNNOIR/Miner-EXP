@@ -1,0 +1,71 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_acacia_log": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_birch_log": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_crimson_stem": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_dark_oak_log": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_jungle_log": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_oak_log": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_spruce_log": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+                "mx_warped_stem": { "min": 1, "max": 10 }
+            }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_netherrack": { "min": 1, "max": 12 } }
+        },
+        {
+            "condition": "entity_scores",
+            "entity": "this",
+            "scores": { "mx_magma": { "min": 1, "max": 12 } }
+        }
+    ]
+}
