@@ -37,11 +37,6 @@
             "scores": { "mx_stone": { "min": 1, "max": 6 } }
         },
         {
-            "condition": "entity_scores",
-            "entity": "this",
-            "scores": { "mx_andesite": { "min": 1, "max": 6 } }
-        },
-        {
             "condition": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
